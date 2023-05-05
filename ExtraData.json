@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdn.shopify.com/s/files/1/0576/5355/9461/products/KacchiBiryaniMutton_large.jpg?v=1625888199",
+    "name": "Kacchi Biriyani"
+  },
+  {
+    "id": 2,
+    "img": "https://www.deshcatering.com/wp-content/uploads/2020/06/morog-polao-jali-kabab.jpg",
+    "name": "Morog Polao"
+  },
+  {
+    "id": 3,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJ4wzkKaHLWLcZDGAzB9lq7WxieaN2-YopQ&usqp=CAU",
+    "name": "Fuchka"
+  },
+  {
+    "id": 4,
+    "img": "https://cookwithrenu.com/wp-content/uploads/2020/09/Mishti-Doi-_Featured-Image-500x500.jpg",
+    "name": "Misti Doi"
+  }
+]
